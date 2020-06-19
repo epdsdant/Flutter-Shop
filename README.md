@@ -1,6 +1,6 @@
-# shop
+# Flutter Shop
 
-A new Flutter project.
+Um projeto em Flutter para apresentar a funcionalidade de dark e ligth.
 
 ## Getting Started
 
